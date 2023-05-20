@@ -7,10 +7,11 @@
 
 # testing
 /coverage
-
+.env
 # production
 /build
-
+.firebase
+.firebaserc
 # misc
 .DS_Store
 .env.local
